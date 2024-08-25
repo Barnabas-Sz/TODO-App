@@ -1,3 +1,6 @@
+// This Code belongs to Barnabas Szelenyi
+
+
 // Referenzen zu Formularelementen und andere wichtige Elemente erhalten
 let form = document.getElementById("form");
 let textInput = document.getElementById("textInput");
